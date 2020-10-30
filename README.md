@@ -30,19 +30,18 @@
 
 </details>
 
-
+<br />
 
 ### 📕 Latest Blog Project
 
 <!-- BLOG-POST-LIST:START -->
 - [Demo for Chain of Stores Biedronka](https://github.com/kornellewy/kjn_biedronka_demo)
-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/playlist?list=PLc2Gh8KviO2fNqdd6Z25C8ZtlFirDWAjB]
+- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 - [Reimplementation of The Conditional Analogy GAN: Swapping Fashion Articles on People Images paper](https://github.com/kornellewy/Conditional-GAN-for-Fashion-1)
 - [Generator of Polish Identity Cards](https://github.com/kornellewy/pl_id_card_generator)
 - [Reimplementation of LeNet, VGG, InceptionNet, Resnet](https://github.com/kornellewy/pytorch_train_projects)
 
 <br />
 <br />
-<br />
 
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/playlist?list=PLc2Gh8KviO2fNqdd6Z25C8ZtlFirDWAjB

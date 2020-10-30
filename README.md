@@ -23,14 +23,7 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="kornellewy GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kornellewy&show_icons=true&hide_border=true" />
-
-</details>
-
-<br />
 
 ### 📕 Latest Blog Project
 
@@ -42,6 +35,15 @@
 - [Reimplementation of LeNet, VGG, InceptionNet, Resnet](https://github.com/kornellewy/pytorch_train_projects)
 
 <br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="kornellewy GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kornellewy&show_icons=true&hide_border=true" />
+
+</details>
+
 <br />
 
 [youtube]: https://www.youtube.com/playlist?list=PLc2Gh8KviO2fNqdd6Z25C8ZtlFirDWAjB

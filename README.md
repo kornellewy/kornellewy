@@ -3,7 +3,7 @@
 ## I'm a big fan of science fiction (bobverse/foundation) 🚀💻🌌
 
 - 🌱 I’m currently learning c++, nlp, cv
-- 👕 I’m currently working on photorealistic dressing room
+- 👕 I’m currently working on photorealistic dressing room -> https://deeptryon.anvil.app 
 - 🤖🦾🦿 After that I'd like to work on a universal humanoid robot that will do everything humans do, using reinforcement learning.
 - 🧠💻 Goals: Upload mind to a computer.
 
